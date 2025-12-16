@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/joseeseguraa/joseeseguraa/assets/51624621/3d01f9d4-1a3b-4836-8a58-812f8a45e412" alt="Banner de Bienvenida" width="100%" />
-</p>
-
 ## 👋 ¡Hola! Soy Jose
 
 Soy estudiante de Ingeniería Informática en la Universidad de Murcia. Me gusta el ecosistema de las Tecnologías de la Información y siempre estoy en busca de nuevos desafíos.
