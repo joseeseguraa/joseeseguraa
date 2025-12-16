@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/assets/51624621/3d01f9d4-1a3b-4836-8a58-812f8a45e412" alt="Banner de Bienvenida" width="100%" />
+  <img src="https://github.com/joseeseguraa/joseeseguraa/assets/51624621/3d01f9d4-1a3b-4836-8a58-812f8a45e412" alt="Banner de Bienvenida" width="100%" />
 </p>
 
 ## 👋 ¡Hola! Soy Jose
@@ -34,9 +34,9 @@ Soy estudiante de Ingeniería Informática en la Universidad de Murcia. Me gusta
 ### 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[joseeseguraa]&show_icons=true&theme=nord&hide_border=true&count_private=true&title_color=00BFFF&icon_color=00BFFF" alt="Estadísticas Generales" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joseeseguraa&show_icons=true&theme=nord&hide_border=true&count_private=true&title_color=00BFFF&icon_color=00BFFF" alt="Estadísticas Generales" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[joseeseguraa]&layout=compact&theme=nord&hide_border=true&title_color=00BFFF&icon_color=00BFFF" alt="Lenguajes Más Usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeseguraa&layout=compact&theme=nord&hide_border=true&title_color=00BFFF&icon_color=00BFFF" alt="Lenguajes Más Usados" width="48%" />
 </p>
 
 ---
