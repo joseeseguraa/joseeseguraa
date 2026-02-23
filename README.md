@@ -29,11 +29,9 @@ Soy estudiante de Ingeniería Informática en la Universidad de Murcia. Me gusta
 
 ### 📊 Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseeseguraa&show_icons=true&theme=nord&hide_border=true&count_private=true&title_color=00BFFF&icon_color=00BFFF" alt="Estadísticas Generales" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeseguraa&layout=compact&theme=nord&hide_border=true&title_color=00BFFF&icon_color=00BFFF" alt="Lenguajes Más Usados" width="48%" />
-</p>
+[![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=joseeseguraa&show_icons=true&theme=nord&hide_border=true&count_private=true&title_color=00BFFF&icon_color=00BFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=joseeseguraa&layout=compact&theme=nord&hide_border=true&title_color=00BFFF&icon_color=00BFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
